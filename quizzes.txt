@@ -1,0 +1,17 @@
+History
+
+Under what kind of tree did 24 American stockbrokers sign the historic Buttonwood agreement, which led to the founding of the New York Stock Exchange?|Sycamore|Oak|Willow|Birch
+What is Africa's most populous country?|Nigeria|Kenya|Ghana|Sudan
+Which nation is ruled by a "supreme leader"?|Iran|Iraq|Turkey|Israel
+
+Music
+
+Which album features the song 'Come Together'?|Abbey Road|Revolver|Help|Rubber Soul
+Which of these songs was written by the band Aerosmith?|Sweet Emotion|Runnin' with the devil|Summer|Iron Throne
+What album is certified as the best-selling of all time with 46 million sales?|Thriller|Hotel California|Back in Black|Rumours
+
+Computer Science
+
+Which function key needs to be pressed to enter in Safe Mode of a Windows Machine?|F8|F2|F1|F9|F12|F10
+Linux is an example of:|Operating System|Application|Browser|Hardware|Software
+Which is an input device?|Mouse|Monitor|Printer|Speaker|None of the above

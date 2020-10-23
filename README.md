@@ -7,3 +7,5 @@ After that it proceeds to allow the user to select the subject of their choice, 
 At the end, the score will be output and saved in a text file.
 
 If you want to try this script, download the text files, and if you want to play around with the questions, you can change them on the quizzes.txt file. 
+
+All of the code is commented.
